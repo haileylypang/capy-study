@@ -1,0 +1,14 @@
+{
+  "name": "Capy Study Timer",
+  "short_name": "Capy Study",
+  "description": "A cozy capybara study stopwatch and notes app.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FFFCE1",
+  "theme_color": "#FFBE91",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
