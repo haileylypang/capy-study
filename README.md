@@ -2,6 +2,8 @@
 
 A cozy study stopwatch and notes app, installable as an iOS home-screen PWA.
 
+The capybara-and-hamburger design is Harmens' — Hailey and Harmens built this app together with AI.
+
 ## Features
 
 - **Stopwatch** — count-up timer with Start / Pause / Give Up / Save. Pauses automatically when the app is backgrounded, and keeps the screen awake while running.
